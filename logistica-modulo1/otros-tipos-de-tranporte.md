@@ -1,8 +1,6 @@
 ---
 description: >-
-  Discover various transport types, including aquatic, railway, and their
-  benefits. Learn how they impact logistics and the environment. Click to
-  explore!
+  Descubre los distintos tipos de transporte, como el acuático y el ferroviario, y sus beneficios. Descubre cómo impactan en la logística y el medio ambiente. ¡Haz clic para explorar!
 ---
 # TEMA 5 – CONCEPTOS Y ESTRUCTURAS: OTROS TIPOS DE TRANSPORTE  
 
