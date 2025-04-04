@@ -64,8 +64,7 @@ El aeropuerto es mucho más que el entorno donde embarcan y desembarcan pasajero
 
 - **ALFABETO FONÉTICO:** El alfabeto fonético creado por la OTAN es el más utilizado en el mundo para la ortografía, ya que utiliza palabras clave del alfabeto inglés para indicar la letra utilizada y evitar confusiones y malentendidos en las comunicaciones, ya sean en persona o por radio, teléfono, etc. Se conoce informalmente como «alfabeto zulú» en la aeronáutica brasileña.
 
-[![alfabeto](https://github.com/breatheco-de/conmebol-content/raw/main/logistica-modulo1/assets/alfabeto.png)
-](https://breathecode.herokuapp.com/v1/media/file/alfabeto-png)
+![alfabeto](https://breathecode.herokuapp.com/v1/media/file/alfabeto-png)
 
 - **IMIGRACIÓN:** puede identificarse como Control de Pasaportes, cuando el funcionario de inmigración comprueba la documentación del pasajero. En esta fase, también puede haber formularios obligatorios que rellenar. Se trata de la entrada internacional para los no nativos o sin ciudadanía en el país de destino.
 
