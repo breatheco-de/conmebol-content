@@ -3,23 +3,7 @@ description: >-
   ¡Aprende los fundamentos de la logística en el fútbol con nuestro curso! Domina los conceptos y estructuras clave para una gestión eficaz en clubes y selecciones. ¡Descubre más!
   
 ---
-# LOGÍSTICA - CONMEBOL - MOD 1 (OFICIAL) (1)
-
-**CONMEBOL EVOLUCIÓN**
-**GESTIÓN DE LOGÍSTICA APLICADA EN CLUBES Y SELECCIONES DE FÚTBOL**
-**MÓDULO 1 – INTRODUCCIÓN,**
-**CONCEPTOS Y ESTRUCTURAS**
-
-**INSTRUCTORES:**
-- **Guilherme Ribeiro**
-- **Luiz Castro**
-- **Henrique Daimond**
-
-**2023**
-
----
-
-# **TEMA 1 – INTRODUCCIÓN**
+# TEMA 1 – INTRODUCCIÓN
 
 ## 1.1 - LOGÍSTICA: CONCEPTOS TEÓRICOS
 
