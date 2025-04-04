@@ -1,91 +1,92 @@
 ---
 description: >-
-  Descubre los conceptos esenciales de la logística del transporte aéreo, incluyendo los tipos de vuelo, las categorías de asientos y los procedimientos aeroportuarios. ¡Domina la planificación de tus viajes hoy mismo!
+  Discover the essential concepts of air transport logistics, including flight types, seat categories, and airport procedures. Master your travel planning today!
 ---
-# TEMA 3 - CONCEPTOS Y ESTRUCTURAS: TRANSPORTE AÉREO
 
-## 3.1 - TIPOS DE VUELO
+# TOPIC 3 - CONCEPTS AND STRUCTURES: AIR TRANSPORT
 
-La aviación ofrece diferentes servicios, tipos y formas de vuelo para los pasajeros. La complejidad y las características de cada vuelo son únicas, al igual que su propia definición. El Director de Logística de un club o equipo nacional debe comprender estas diferencias, ya que tienen un impacto directo en las operaciones de viaje de la delegación.
+## 3.1 - TYPES OF FLIGHT
 
-**SERVICIO DE VUELO**
+Aviation offers different services, types, and forms of flight for passengers. Each flight has its own unique complexity and characteristics, as well as its own definition. The Logistics Director of a club or national team must understand these differences, as they directly impact the travel operations of the delegation.
 
-- **VUELO COMERCIAL** es la parte de la aviación civil que consiste en operar una aeronave para transportar pasajeros y carga.
-- **VUELO DE CARGA:** también conocido como chárter, es el servicio de fletar una aeronave. Con un horario y rutas definidas en función de la demanda, permite autonomía y agilidad en determinados trayectos. Al no tratarse de un vuelo regular, no existe la posibilidad de comprar billetes. Alquilar un avión para el transporte. Un vuelo chárter es diferente de un aerotaxi, que se realiza con pequeñas aeronaves.
+**FLIGHT SERVICE**
 
-**TIPO DE VUELO**
+- **COMMERCIAL FLIGHT** is the part of civil aviation that consists of operating an aircraft to transport passengers and cargo.
+- **CARGO FLIGHT:** also known as charter, is the service of chartering an aircraft. With a schedule and routes defined according to demand, it allows autonomy and agility on certain routes. Since it is not a regular flight, tickets cannot be purchased. It involves renting a plane for transport. A charter flight is different from an air taxi, which uses small aircraft.
 
-- **VUELO DIRECTO:** un vuelo que no tiene escalas en el trayecto, es decir, el pasajero llega a su destino tan pronto como sale del punto de origen.
-- **VUELO DE PARADA:** tiene una escala, pero sin necesidad de que el pasajero desembarque. Suele utilizarse para repostar o embarcar nuevos pasajeros.
--**VUELO DE CONEXIÓN:** en este caso el pasajero debe desembarcar en un aeropuerto en mitad del trayecto para cambiar de avión y continuar hasta su destino.
+**TYPE OF FLIGHT**
 
-**FORMA DE VUELO**
+- **DIRECT FLIGHT:** a flight with no stops along the way, meaning the passenger arrives at the destination as soon as they leave the point of origin.
+- **STOP FLIGHT:** has a layover, but the passenger does not need to disembark. It is commonly used for refueling or boarding new passengers.
+- **CONNECTING FLIGHT:** in this case, the passenger must disembark at an airport halfway through the journey to change planes and continue to the destination.
 
-- **VUELO NACIONAL:** vuelos en los que el aeropuerto de origen y el de destino están situados en el mismo país.
-- **VUELO INTERNACIONAL:** vuelos en los que el país del aeropuerto de origen es diferente del país del aeropuerto de destino. El procedimiento en este tipo de vuelo es diferente, ya que los pasajeros deben realizar los trámites de migración en el país de origen y los trámites de inmigración y aduana en el país de destino, excepto cuando los países forman parte de un área de acuerdo internacional.
+**FORM OF FLIGHT**
 
-## 3.2 - CATEGORÍAS DE ASIENTOS
+- **DOMESTIC FLIGHT:** flights where both the origin and destination airports are in the same country.
+- **INTERNATIONAL FLIGHT:** flights where the country of the origin airport is different from the country of the destination airport. The procedures for this type of flight differ, as passengers must go through migration procedures in the country of origin and immigration and customs in the destination country, except when countries are part of an international agreement area.
 
-Al embarcar en un avión grande, los pasajeros se dan cuenta de que el equipo tiene diferentes tipos de asientos, unos más grandes, otros más pequeños, unos con más espacio, otros con menos, unos con servicio de comida a bordo, otros sin servicio alguno. Esto se debe a que los aviones pueden tener distintas configuraciones de asientos y, por supuesto, cobrar precios diferentes. Conocer las categorías de asientos del avión es importante para que el Responsable de Logística pueda distribuir la delegación de la forma más conveniente, entendiendo las limitaciones estructurales del avión y las limitaciones financieras del lugar donde trabaja.
+## 3.2 - SEAT CATEGORIES
 
-- **CLASE ECONÓMICA:** es la clase de asientos de menor coste en un avión. Dependiendo del avión y de la compañía aérea, los pasajeros disponen de asientos reclinables y servicios de catering (de pago o no), posibilidad de reservar asiento, entretenimiento a bordo, etc.
-- **CLASE EJECUTIVA:** también conocida como clase business, suele ofrecer más comodidad que la clase turista, ya que ofrece a los pasajeros más espacio y asientos más cómodos. Esta clase también ofrece un servicio de catering diferente y más opciones de entretenimiento durante el vuelo. Al comprar un billete en esta clase, los pasajeros también están autorizados a facturar más equipaje y por encima del peso convencional.
-- **PRIMERA CLASE:** es la mejor categoría posible en un vuelo, con más privacidad y un nivel de servicio diferente. No todos los aviones tienen este tipo de clase, pero los que la tienen ofrecen asientos extremadamente cómodos y un sofisticado servicio a bordo, con horarios flexibles para que los pasajeros puedan elegir. Además de las comodidades de las dos clases (business y economy), las aerolíneas también ofrecen a estos pasajeros un trato especial en el aeropuerto, con salas VIP de espera y servicio especializado.
+When boarding a large aircraft, passengers notice different types of seats: some bigger, some smaller, some with more space, some with less, some with in-flight meals, others without any service. This is because airplanes can have various seat configurations and, of course, different prices. Knowing the seat categories on the plane is important so that the Logistics Manager can distribute the delegation in the most convenient way, understanding both the structural limitations of the aircraft and the financial limitations of the organization they work for.
 
-## 3.3 - SERVICIO A BORDO
+- **ECONOMY CLASS:** this is the lowest-cost seating class on a plane. Depending on the aircraft and airline, passengers may have reclining seats and catering services (paid or not), the ability to reserve a seat, onboard entertainment, etc.
+- **BUSINESS CLASS:** also known as executive class, usually offers more comfort than economy class, providing more space and more comfortable seating. This class also offers different catering services and more entertainment options during the flight. Purchasing a ticket in this class also grants passengers higher baggage allowances and overweight limits.
+- **FIRST CLASS:** is the top-tier category on a flight, offering more privacy and a different level of service. Not all planes have this class, but those that do offer extremely comfortable seating and sophisticated onboard services, with flexible schedules for passengers to choose from. In addition to the comforts of the two other classes (business and economy), airlines also provide special treatment at the airport, including VIP lounges and dedicated service.
 
-Toda la atención prestada por la tripulación al pasajero en el avión se considera servicio a bordo ofrecido por la compañía aérea. Además de lo que se sirve al pasajero en forma de comida, se tiene en cuenta el trato dispensado a los pasajeros, las instrucciones sobre salidas de emergencia y evacuación, la solicitud de cualquier artículo disponible y las orientaciones generales y específicas.
+## 3.3 - IN-FLIGHT SERVICE
 
-- **OFICIAL DE A BORDO** es el profesional de la aerolínea que recibe a los pasajeros en el avión, dando todas las instrucciones de seguridad y ofreciendo los servicios disponibles en el vuelo.
-- **ENTRETENIMIENTO A BORDO:** las compañías aéreas pueden o no ofrecer entretenimiento a bordo como televisores, internet, etc., especialmente en viajes largos.
-- **CATERING:** es el servicio de comida que se ofrece dentro del avión. Por razones de seguridad, existen varias normas para preparar, conservar y servir la comida dentro del avión. Los carritos son donde se guardan las bandejas con aperitivos fríos, mientras que los insertos son los recipientes que mantienen calientes las comidas hasta que se introducen en los hornos de la cocina. En los viajes cortos, normalmente sólo le ofrecerán tentempiés rápidos, mientras que en los viajes internacionales más largos le ofrecerán comidas más completas.
+All attention given by the crew to passengers on the plane is considered in-flight service provided by the airline. In addition to the food served to passengers, it includes the manner of treatment, instructions on emergency exits and evacuation, requests for available items, and general and specific guidelines.
 
-## 3.4 - EQUIPAJE
+- **FLIGHT ATTENDANT** is the airline professional who welcomes passengers onto the plane, provides all safety instructions, and offers available services during the flight.
+- **IN-FLIGHT ENTERTAINMENT:** airlines may or may not provide entertainment such as TVs, internet, etc., especially on long-haul flights.
+- **CATERING:** this is the food service offered inside the aircraft. For safety reasons, there are many rules for preparing, storing, and serving food on the plane. Trolleys store trays with cold snacks, while inserts are containers that keep meals hot until placed into onboard ovens. On short trips, only quick snacks are usually offered, whereas longer international flights provide more complete meals.
 
-Cuando nos referimos al equipaje desde el punto de vista de la aviación, existen tres tipos diferentes: equipaje facturado, equipaje de mano y objetos personales. Las tarifas aéreas suelen identificar de qué tipo de equipaje dispone el pasajero, así como las limitaciones de peso y tamaño. Las delegaciones de fútbol suelen viajar con una gran cantidad de equipaje, transportando material deportivo y lo necesario para los entrenamientos y partidos. El Responsable de Logística es responsable de conocer toda la operativa relacionada con el equipaje que se va a transportar, con el fin de evitar costes adicionales por exceso de volumen o peso.
+## 3.4 - LUGGAGE
 
-- **Maletas GRANDES** que se entregan en facturación, antes del embarque y se devuelven al pasajero en destino. Se etiquetan para su identificación. En los vuelos con conexiones, existen diferencias entre los vuelos nacionales y los internacionales. En los vuelos nacionales, se recogen en el último aeropuerto. En los vuelos internacionales, el pasajero debe recogerlo en la primera escala en el país de destino y, si es necesario, facturarlo de nuevo para el vuelo nacional. Es importante tener en cuenta que el equipaje debe tener un límite de peso estipulado por la compañía aérea/organismos de control. También hay un límite en el número de bultos. No todas las tarifas permiten también facturar equipaje, por lo que es esencial conocer los permisos del billete que ha adquirido.
-- **MALETA DE MANO:** es la maleta pequeña con un límite de tamaño y peso que la compañía aérea y las autoridades aeroportuarias permiten llevar al pasajero en el avión. Si no se respetan los límites de tamaño y peso, el pasajero se verá obligado a facturarla y podrá incurrir en gastos imprevistos. Como acompaña al pasajero, también es inspeccionado por rayos X antes de acceder a la sala de embarque. Las normas de la ANAC (agencia brasileña) permiten unas medidas máximas de 35 x 25 x 55 cm (largo x ancho x alto), incluyendo asas, bolsillos y ruedas, y un máximo de 10 kilos.
-- **OJETO PERSONAL:** algunas compañías aéreas designan como objeto personal una mochila/cartera/bolso que se puede llevar además del equipaje de mano y que cabe debajo del asiento delante del pasajero.
-- **BALANCEO:** el balanceo es un procedimiento de seguridad aeronáutica que considera el equilibrio de la aeronave en relación con su peso, produciendo un vuelo más estable sin posibilidad de rotación en ningún eje.
+From an aviation perspective, there are three different types of luggage: checked baggage, carry-on baggage, and personal items. Airfare usually identifies what kind of baggage the passenger is entitled to, as well as the weight and size limitations. Soccer delegations often travel with a large amount of luggage, including sports equipment and everything necessary for training and matches. The Logistics Manager is responsible for knowing all the procedures related to the luggage being transported to avoid extra costs due to excess volume or weight.
 
-## 3.5 - TIPOS DE AERONAVES
+- **LARGE SUITCASES** are checked in before boarding and returned to the passenger at the destination. They are tagged for identification. On connecting flights, there are differences between domestic and international flights. On domestic flights, baggage is collected at the final airport. On international flights, the passenger must retrieve the luggage at the first stop in the destination country and, if necessary, check it in again for the domestic flight. It is important to note that baggage must comply with weight limits stipulated by the airline/control agencies. There is also a limit on the number of items. Not all fares include checked baggage, so it's essential to know what your ticket allows.
+- **CARRY-ON BAGGAGE:** is the small suitcase with specific size and weight limits allowed by the airline and airport authorities. If these limits are not respected, the passenger will be required to check the bag and may incur unexpected charges. Since it travels with the passenger, it is also scanned by X-ray before entering the boarding area. ANAC (Brazilian agency) regulations allow maximum dimensions of 35 x 25 x 55 cm (length x width x height), including handles, pockets, and wheels, and a maximum weight of 10 kg.
+- **PERSONAL ITEM:** some airlines designate a backpack/handbag/purse as a personal item that can be brought in addition to the carry-on baggage and must fit under the seat in front of the passenger.
+- **BALANCING:** balancing is an aviation safety procedure that considers the aircraft’s weight distribution, producing a more stable flight without the risk of rotation along any axis.
 
-Actualmente disponemos de muchas aeronaves diferentes en cuanto a tamaño, configuración y finalidad. Sin embargo, es posible tener una comprensión de los 4 principales grupos de tipos de aeronaves con el fin de tener una comprensión de las principales diferencias entre cada uno de ellos.
+## 3.5 - TYPES OF AIRCRAFT
 
-- **AVIONES TURBOHÉLICOS:** Son aviones que utilizan motores de combustión para hacer girar la hélice y crear el empuje necesario para mover la aeronave. Tienen menor velocidad, capacidad de carga y autonomía que los reactores, pero son opciones más económicas.
-- **Este tipo de avión** utiliza turbinas para crear el empuje necesario para mover la aeronave. El empuje es mayor que el de los aviones turbohélice, lo que los hace más rápidos. La complejidad de los distintos tipos de aviones también les permite transportar una mayor capacidad de pasajeros y carga y recorrer largas distancias.
-- **Los JETS EJECUTIVOS** son aeronaves de diferentes tamaños que se utilizan con fines privados y pueden tener diferentes configuraciones.
-- **Helicópteros:** Son aeronaves que se sostienen en el aire mediante palas que funcionan como alas giratorias para propulsar la aeronave. Son fáciles de maniobrar, despegan y aterrizan verticalmente y pueden planear en el aire.
+We currently have many different aircraft in terms of size, configuration, and purpose. However, it's possible to understand the four main groups of aircraft types in order to grasp the key differences between them.
 
-## 3.6 - AEROPUERTO
+- **TURBOPROP PLANES:** These are aircraft that use combustion engines to turn the propeller and create the thrust needed to move the plane. They have lower speed, cargo capacity, and range than jets but are more economical options.
+- **This type of aircraft** uses turbines to generate the thrust needed to move the plane. Thrust is greater than that of turboprops, making them faster. The complexity of the different types of jets also allows them to carry more passengers and cargo and travel long distances.
+- **EXECUTIVE JETS** are aircraft of different sizes used for private purposes and can have various configurations.
+- **HELICOPTERS:** These aircraft stay aloft using blades that function as rotating wings to propel the vehicle. They are easy to maneuver, take off and land vertically, and can hover in place.
 
-El aeropuerto es mucho más que el entorno donde embarcan y desembarcan pasajeros y mercancías con destino a diversos lugares del mundo. Es un universo estrictamente controlado con su propio lenguaje, estructuras de acceso únicas y códigos que a menudo resultan desconocidos, pero que hacen que la comunicación sea un éxito independientemente del lugar desde el que se viaje. He aquí algunos términos y lugares clave con los que el Director de Logística de un club o de una selección nacional entrará en contacto en algún momento, y no es para menos.
+## 3.6 - AIRPORT
 
-- **ALFABETO FONÉTICO:** El alfabeto fonético creado por la OTAN es el más utilizado en el mundo para la ortografía, ya que utiliza palabras clave del alfabeto inglés para indicar la letra utilizada y evitar confusiones y malentendidos en las comunicaciones, ya sean en persona o por radio, teléfono, etc. Se conoce informalmente como «alfabeto zulú» en la aeronáutica brasileña.
+An airport is much more than a place where passengers and cargo board and disembark for various global destinations. It is a tightly controlled environment with its own language, unique access structures, and codes that may seem unfamiliar, but are key to effective communication regardless of where you are flying. Here are some key terms and locations that a club or national team Logistics Director will inevitably encounter.
+
+- **PHONETIC ALPHABET:** The phonetic alphabet created by NATO is the most widely used worldwide for spelling, as it uses English keyword equivalents for each letter to avoid confusion and misunderstandings in communication, whether in person, by radio, phone, etc. In Brazilian aviation, it’s informally known as the "Zulu alphabet."
 
 ![alfabeto](https://breathecode.herokuapp.com/v1/media/file/alfabeto-png)
 
-- **IMIGRACIÓN:** puede identificarse como Control de Pasaportes, cuando el funcionario de inmigración comprueba la documentación del pasajero. En esta fase, también puede haber formularios obligatorios que rellenar. Se trata de la entrada internacional para los no nativos o sin ciudadanía en el país de destino.
+- **IMMIGRATION:** can be identified as Passport Control, when the immigration officer checks the passenger’s documentation. This phase may also involve required forms to fill out. It represents international entry for non-natives or non-citizens in the destination country.
 
-Lo ideal es que los pasaportes tengan una validez mínima de seis meses desde la fecha de salida. Algunos países también exigen un Certificado Internacional de Vacunación, que incluye la vacuna contra la fiebre amarilla y, más recientemente, la vacuna contra el COVID, que deben administrarse al menos 10 días antes del viaje. También debe estar al tanto de cualquier país de conexión que pueda requerir documentación de tránsito específica. Los funcionarios de inmigración se interesan por el estado del ciudadano, la duración del viaje y el lugar de estancia.
+Ideally, passports should be valid for at least six months from the date of departure. Some countries also require an International Certificate of Vaccination, including yellow fever and more recently COVID vaccines, which must be administered at least 10 days before travel. Be aware of any connection countries that may require specific transit documentation. Immigration officials are interested in the traveler’s status, trip duration, and place of stay.
 
-- **Las ADUANAS:** son las autoridades locales que controlan el flujo de mercancías. Inmigración controla la entrada de personas y aduanas la entrada de mercancías. Cada país tiene su propia lista específica de artículos permitidos. Los agentes tienen autonomía para pedir que se analice tu equipaje y se preocupan por lo que llevas y están sujetos a tasas específicas.
-- **Código IATA:** IATA son las siglas de International Air Transport Association (Asociación Internacional de Transporte Aéreo), que representa a las compañías aéreas. Controlan más del 80% del tráfico aéreo mundial. El código IATA se utiliza para designar los aeropuertos de todo el mundo. Consta de tres letras que hacen referencia a la ubicación, región o nombre del aeropuerto. Se utiliza en las etiquetas de equipaje, tarjetas de embarque, etc.
-- **SLOT:** es un término utilizado en aviación para determinar la franja horaria que utiliza la compañía aérea para aterrizar y despegar. Equivaldría a utilizar una franja horaria dentro de la disponibilidad y capacidad del aeropuerto. Sólo los aeropuertos de nivel 3 (que tienen una cierta congestión y un elevado tráfico aéreo) utilizan la asignación de franjas horarias.
+- **CUSTOMS:** these are the local authorities controlling the flow of goods. Immigration handles the entry of people; customs handles goods. Each country has a specific list of permitted items. Agents have the authority to inspect your baggage and are concerned with what you are carrying, subject to specific fees.
+- **IATA CODE:** IATA stands for International Air Transport Association, representing airlines. They control over 80% of global air traffic. The IATA code is used to identify airports worldwide. It consists of three letters that refer to the location, region, or airport name. It is used on baggage tags, boarding passes, etc.
+- **SLOT:** a term used in aviation to determine the time slot an airline uses to land and take off. It’s like reserving a time frame within the airport's capacity. Only level 3 airports (with congestion and high air traffic) use slot allocation.
 
-## 3.7 - DOCUMENTOS
+## 3.7 - DOCUMENTS
 
-Al igual que en la vida cotidiana llevamos nuestros documentos personales para los trámites de ciudadanía, en los aeropuertos ciertos documentos son imprescindibles para que los pasajeros puedan volar, acceder a un país, facturar paquetes, etc.
+Just as we carry personal documents for everyday matters, certain documents are essential in airports for passengers to fly, enter a country, check in bags, etc.
 
-Es la información consolidada sobre la reserva del billete, como datos del pasajero, localizador, valor, documentación. Este documento se utiliza para facturar y acceder a la tarjeta de embarque.
+It is the consolidated information about the ticket reservation, such as passenger details, locator, value, documentation. This document is used to check in and access the boarding pass.
 
-- **TARJETA DE EMBARQUE:** es el documento que permite al pasajero acceder a la sala de embarque y al avión. Contiene información sobre el vuelo, número de puerta de embarque, horarios, fechas, etc.
-- **PASAPORTE:** es el documento oficial del pasajero para salir de un país y entrar en otro. El pasaporte contiene datos personales, así como registros de entradas y salidas de países, visados, autorizaciones, etc.
-- **RG o DNI:** Registro Geral (RG) o Documento Nacional de Identificação (Documento Nacional de Identificación) es el documento del país de origen del pasajero que contiene datos de identificación normalizados.
-- **TARNETAS DE VACUNACIÓN:** es un documento personal que permite comprobar qué vacunas ha recibido el pasajero. En algunos países, la entrada está sujeta al pago de un determinado tipo de vacunas (como la COVID o la fiebre amarilla). La cartilla de vacunación sirve como prueba de estos requisitos.
-- **EL SEGURO DE VIAJE:** es un servicio que el pasajero puede contratar cuando viaja (algunos países lo hacen obligatorio) y que le permite ser indemnizado en caso de accidente o incidente con el equipaje, por ejemplo.
+- **BOARDING PASS:** this document allows the passenger to access the boarding gate and the aircraft. It contains information about the flight, gate number, schedules, dates, etc.
+- **PASSPORT:** this is the passenger’s official document for leaving one country and entering another. The passport contains personal data as well as records of entries and exits from countries, visas, authorizations, etc.
+- **ID CARD:** Registro Geral (RG) or Documento Nacional de Identificação (National Identification Document) is the passenger’s country of origin document that contains standardized identification data.
+- **VACCINATION CARDS:** this personal document shows which vaccines the passenger has received. In some countries, entry is subject to specific vaccines (such as COVID or yellow fever). The vaccination card serves as proof of these requirements.
+- **TRAVEL INSURANCE:** a service the passenger can purchase when traveling (mandatory in some countries) that provides compensation in case of an accident or baggage incident, for example.
 
-La Asistencia en Viaje es un tipo de seguro en el que la aseguradora paga por adelantado, sin necesidad de reembolso. Con esto, hay especificaciones para los lugares de asistencia.
+Travel Assistance is a type of insurance where the insurer pays in advance, with no need for reimbursement. It includes specifications for the places where assistance is available.
 
-**VISADOS:** un visado es una autorización para entrar en un determinado país. El documento suele indicar la validez del visado y las actividades que la persona puede realizar. Cada país tiene sus propias normas sobre visados, y algunos ni siquiera exigen ese documento de autorización. En el caso de los países que sí lo exigen, realizar actividades no autorizadas se considera ilegal y puede llevar a la deportación. Existen diferentes tipos de visado, como los visados de turista, de estudios, de residencia, de estancia temporal, de trabajo temporal, de negocios, de inversor, etc.
+**VISAS:** a visa is an authorization to enter a particular country. The document usually indicates the visa's validity and the activities the person may carry out. Each country has its own visa rules, and some do not require this authorization at all. For countries that do require it, engaging in unauthorized activities is considered illegal and can lead to deportation. There are various visa types, such as tourist, student, residency, temporary stay, temporary work, business, investor, etc.

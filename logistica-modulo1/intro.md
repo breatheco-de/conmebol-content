@@ -1,76 +1,71 @@
 ---
 description: >-
-  ¡Aprende los fundamentos de la logística en el fútbol con nuestro curso! Domina los conceptos y estructuras clave para una gestión eficaz en clubes y selecciones. ¡Descubre más!
-  
+  Learn the fundamentals of logistics in football with our course! Master the key concepts and structures for effective management in clubs and national teams. Discover more!
 ---
-# TEMA 1 – INTRODUCCIÓN
 
-## 1.1 - LOGÍSTICA: CONCEPTOS TEÓRICOS
+# TOPIC 1 – INTRODUCTION
 
-¡Hola, alumnos y alumnas! Primeramente, sean todos bienvenidos al curso de **“GESTIÓN DE LOGÍSTICA APLICADA EN CLUBES Y SELECCIONES DE FÚTBOL”** del Programa Evolución CONMEBOL. Creemos que su interés en el área es grande y esperamos que aprovechen el contenido del curso para formarse en esta importante industria del fútbol.
+## 1.1 – LOGISTICS: THEORETICAL CONCEPTS
 
-El curso está diseñado tanto para aquellos que ya trabajan en el área y desean reflexionar sobre diversos temas, como para los estudiantes interesados en desempeñarse como gestores de logística en el fútbol. Nuestra intención es abordar contenidos teóricos y prácticos para desarrollar y preparar a los alumnos para este dinámico mercado laboral.
+Hello students! First of all, welcome to the course **"LOGISTICS MANAGEMENT APPLIED TO FOOTBALL CLUBS AND NATIONAL TEAMS"** from the CONMEBOL Evolution Program. We believe your interest in this field is strong, and we hope you take full advantage of the course content to develop yourself within this important football industry.
 
-Aunque la palabra "LOGÍSTICA" ha ganado notoriedad en el mundo moderno con el auge de los servicios de *delivery* y el comercio electrónico, es un término que ha sido utilizado durante siglos en la sociedad.
+The course is designed for both those already working in the field who want to reflect on various topics, and for students interested in working as logistics managers in football. Our aim is to cover both theoretical and practical content to train and prepare students for this dynamic job market.
 
-En el año 481 a.C., persas y griegos aplicaban este concepto en la organización de viajes y desplazamientos de ejércitos y suministros. Los militares encargados de la distribución de provisiones en las batallas eran llamados "logísticos". En latín, “logisticus” deriva del griego “logistikos”, que significaba cálculo y razonamiento en un sentido matemático.
+Although the word "LOGISTICS" has gained popularity in modern times with the rise of *delivery* services and e-commerce, it’s a term that has been used for centuries in society.
 
-Otra teoría sobre el origen del término proviene del verbo francés “loger”, que hace referencia a alojar o dar hospedaje. El noble Barón Antoine Henri, estudioso de la guerra y colaborador de Napoleón Bonaparte, escribió en 1836 un libro titulado *Sumario del Arte de la Guerra*, donde definió la logística como "la acción que conduce a la preparación y sostenimiento de las campañas; el arte de mover ejércitos".
+In 481 B.C., Persians and Greeks applied this concept when organizing army movements and supply chains. Military officers in charge of provisioning during battles were called "logistics officers." In Latin, “logisticus” comes from the Greek “logistikos,” meaning calculation and reasoning in a mathematical sense.
 
-Si bien su origen tiene un fuerte vínculo con el ámbito militar, la evolución de diversas industrias ha ampliado el concepto de logística, otorgándole una mayor relevancia en el mundo globalizado actual. Aunque todavía está asociada con el transporte y distribución de productos, en la actualidad también se relaciona con la planificación estratégica y presupuestaria, y con las expectativas del consumidor final.
+Another theory traces the term to the French verb “loger,” which refers to housing or providing lodging. The noble Baron Antoine Henri, a war scholar and collaborator of Napoleon Bonaparte, wrote a book in 1836 titled *Summary of the Art of War*, where he defined logistics as “the action that leads to the preparation and support of campaigns; the art of moving armies.”
 
-El *Council of Logistics Management* (1996) definió la logística como: "el proceso de planificar, implementar y controlar la eficiencia, el flujo y almacenamiento de mercancías, servicios e información relacionada, desde el punto de origen hasta el punto de consumo, con el objetivo de satisfacer las exigencias de los clientes".
+Although its origin is strongly linked to the military field, the evolution of various industries has broadened the concept of logistics, making it increasingly relevant in today’s globalized world. While it’s still associated with transportation and distribution of goods, it is now also linked to strategic and budgetary planning, as well as meeting end-user expectations.
 
-De manera similar, Novaes (2001) definió la logística como "el proceso de planificar, implementar y controlar de manera eficiente el flujo y almacenamiento de productos, así como los servicios e información asociados, cubriendo desde el punto de origen hasta el punto de consumo, con el objetivo de cumplir los requisitos del consumidor".
+The *Council of Logistics Management* (1996) defined logistics as: “the process of planning, implementing, and controlling the efficient flow and storage of goods, services, and related information from the point of origin to the point of consumption, in order to meet customer requirements.”
 
-Siguiendo este concepto, la logística abarca todo el proceso desde la producción hasta la entrega final del producto al consumidor. La logística deportiva comparte este propósito, pero con características específicas.
+Similarly, Novaes (2001) defined logistics as “the process of efficiently planning, implementing, and controlling the flow and storage of products, as well as the associated services and information, from the point of origin to the point of consumption, aiming to fulfill customer requirements.”
 
-Para comprender mejor este punto, dividiremos el concepto de Logística Deportiva en tres categorías, utilizando como referencia la organización de un partido de fútbol:
+According to this concept, logistics encompasses the entire process from production to the final delivery of a product to the consumer. Sports logistics shares this goal but has specific characteristics.
 
-- **Logística Deportiva de quienes organizan el juego** → **ORGANIZACIÓN DEL EVENTO**
-- **Logística Deportiva de quienes operan el juego** → **ESTRUCTURA OPERACIONAL**
-- **Logística Deportiva de quienes participan en el juego** → **CLUBES Y SELECCIONES**
+To better understand this point, we’ll divide the concept of Sports Logistics into three categories, using the organization of a football match as a reference:
 
-### **LOGÍSTICA DE LA ORGANIZACIÓN**
-Involucra la Gestión Administrativa del Evento, como la planificación de las Confederaciones y Federaciones deportivas. Su foco principal está en la regulación y normativas del evento, incluyendo:
+- **Sports Logistics of those organizing the game** → **EVENT ORGANIZATION**
+- **Sports Logistics of those operating the game** → **OPERATIONAL STRUCTURE**
+- **Sports Logistics of those participating in the game** → **CLUBS AND NATIONAL TEAMS**
 
-- Disposiciones administrativas, técnicas y disciplinarias
-- Criterios de participación y sistemas de competencia
-- Condiciones de juego para atletas y árbitros
+### **LOGISTICS OF THE ORGANIZATION**
+This involves the Administrative Management of the Event, such as the planning carried out by Sports Confederations and Federations. The main focus is on the event’s regulations and standards, including:
 
-### **LOGÍSTICA DE LA ESTRUCTURA DEPORTIVA**
-Se relaciona con la Gestión Operacional del Evento, abarcando estadios y arenas deportivas. Su enfoque principal está en la infraestructura y sus particularidades, tales como:
+- Administrative, technical, and disciplinary provisions  
+- Participation criteria and competition systems  
+- Playing conditions for athletes and referees  
 
-- Accesos, boletos y acreditaciones
-- Protocolos e informes de los juegos
-- Áreas comerciales, patrocinio y marketing
+### **LOGISTICS OF THE SPORTS STRUCTURE**
+This relates to the Operational Management of the Event, including stadiums and sports arenas. The main focus is on infrastructure and its particularities, such as:
 
-### **LOGÍSTICA DE LOS PARTICIPANTES**
-Se centra en la gestión de clubes y selecciones que compiten en el evento. Aquí, la prioridad está en atender las necesidades específicas de las delegaciones deportivas.
+- Access, tickets, and accreditations  
+- Match protocols and reports  
+- Commercial areas, sponsorship, and marketing  
 
-Los clubes y selecciones deben comprender el reglamento del evento, sus derechos, deberes, criterios y condiciones deportivas. También deben conocer la estructura del evento, incluyendo accesos, restricciones y limitaciones.
+### **LOGISTICS OF THE PARTICIPANTS**
+This focuses on the management of clubs and national teams participating in the event. The priority here is to address the specific needs of sports delegations.
 
-## 1.2 – COMPRENDIENDO EL CURSO
+Clubs and national teams must understand the event regulations, their rights, obligations, criteria, and sporting conditions. They must also be familiar with the event’s structure, including access, restrictions, and limitations.
 
-Nuestro objetivo es analizar específicamente la Gestión de Logística Aplicada al Fútbol desde el punto de vista de los participantes, es decir, **la logística deportiva de clubes y selecciones**. A lo largo del curso, notarás que muchos aspectos están interconectados con otros tipos de logística, reflejando su importancia en las operaciones deportivas.
+## 1.2 – UNDERSTANDING THE COURSE
 
-El curso está dividido en cuatro módulos:
+Our objective is to specifically analyze the Management of Logistics Applied to Football from the participants’ perspective—that is, **sports logistics for clubs and national teams**. Throughout the course, you’ll notice that many aspects are interconnected with other types of logistics, showing their importance in sports operations.
 
-### **MÓDULO 1: INTRODUCCIÓN, CONCEPTOS Y ESTRUCTURAS**
+The course is divided into four modules:
 
-Este módulo establece las bases del curso, presentando conceptos teóricos y estructurales fundamentales para la formación del Gestor de Logística Deportiva. Aunque algunos términos puedan resultar familiares, es crucial reforzar su importancia, ya que serán recurrentes durante el curso.
+### **MODULE 1: INTRODUCTION, CONCEPTS AND STRUCTURES**  
+This module lays the foundation for the course, presenting key theoretical and structural concepts essential for the development of a Sports Logistics Manager. While some terms may be familiar, reinforcing their importance is crucial, as they will frequently appear throughout the course.
 
-### **MÓDULO 2: REGLAMENTOS Y RELACIÓN CON OTRAS ÁREAS**
+### **MODULE 2: REGULATIONS AND RELATIONSHIP WITH OTHER AREAS**  
+Here, students will understand the sporting regulations and their impact on the logistics management of clubs and national teams. We will also explore the importance of the Logistics Manager’s relationship with other areas, such as the Technical and Administrative Departments, as well as external entities and local facilitators.
 
-Aquí los alumnos comprenderán los reglamentos deportivos y su impacto en la Gestión de Logística de clubes y selecciones. Además, exploraremos la relevancia de la relación del Gestor de Logística con otras áreas, como el Departamento Técnico y Administrativo, así como con entidades externas y facilitadores locales.
+### **MODULE 3: GAME OPERATIONS**  
+This module covers the planning and execution of game operations. We will analyze the importance of preliminary site visits for the Logistics Manager, coordination with event organizers, agreements, protocols, catering, and match development.
 
-### **MÓDULO 3: OPERACIONES DE JUEGO**
+### **MODULE 4: TOOLS AND INNOVATION**  
+In this module, we will reflect on how innovation has transformed logistics management in football. We will review various technological tools that optimize the work of the Logistics Manager, bringing agility and efficiency to daily operations.
 
-Este módulo cubre la planificación y ejecución de las operaciones de juego. Analizaremos la importancia de las visitas precursoras para el Gestor de Logística, la coordinación con los responsables del evento, los convenios, protocolos, catering y el desarrollo del partido.
-
-### **MÓDULO 4: HERRAMIENTAS E INNOVACIÓN**
-
-En este módulo reflexionaremos sobre cómo la innovación ha transformado la gestión logística en el fútbol. Revisaremos diversas herramientas tecnológicas que optimizan la labor del Gestor de Logística, aportando dinamismo y eficiencia en su trabajo diario.
-
-El curso de **Gestión de Logística Aplicada en Clubes y Selecciones de Fútbol** tiene como objetivo contribuir a la formación de futuros gestores en esta área clave. Esperamos que al finalizar el curso, los alumnos estén preparados para asumir responsabilidades profesionales en logística deportiva y comprendan la relevancia de su labor para el éxito de las competiciones. ¡Vamos al juego!
-
+The course **Logistics Management Applied to Football Clubs and National Teams** aims to contribute to the training of future managers in this key area. We hope that by the end of the course, students will be ready to take on professional responsibilities in sports logistics and fully understand the significance of their role in the success of competitions. Let’s get in the game!

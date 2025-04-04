@@ -1,85 +1,86 @@
 ---
 description: >-
-  Descubre los conceptos y estructuras esenciales del transporte terrestre, incluyendo vehículos de pasajeros, categorías de asientos y documentación logística. ¡Aprende más!
+  Discover the essential concepts and structures of ground transportation, including passenger vehicles, seat categories, and logistics documentation. Learn more!
 ---
-# TEMA 4 - CONCEPTOS Y ESTRUCTURAS: TRANSPORTE TERRESTRE
 
-## 4.1 - VEHÍCULOS DE PASAJEROS
+# TOPIC 4 - CONCEPTS AND STRUCTURES: GROUND TRANSPORTATION
 
-Las delegaciones de fútbol suelen utilizar el transporte terrestre para desplazarse por las ciudades, lo que facilita que todos estén juntos. Aunque existen diferentes tipos de vehículos, los autobuses son los más utilizados en el fútbol debido a su capacidad de pasajeros. El Director de Logística debe conocer estos tipos de vehículos para optimizar su operación de transporte y satisfacer las demandas de la delegación.
+## 4.1 - PASSENGER VEHICLES
 
-### **AUTOBUSES**
+Football delegations often use ground transportation to move around cities, which makes it easier for everyone to stay together. Although there are different types of vehicles, buses are the most used in football due to their passenger capacity. The Logistics Director must be familiar with these types of vehicles to optimize transportation operations and meet the delegation's demands.
 
-- **BUS DD:** DD es el acrónimo de autobuses de dos pisos, es decir, aquellos que disponen de dos niveles de asientos.
-- **BUS LD:** LD es el acrónimo de autobuses de conductor bajo, en los que la cabina del conductor está en la parte inferior mientras que los asientos de los pasajeros están en la parte superior. Los maleteros de este tipo de vehículos suelen ser muy espaciosos.
-- **AUTOBÚS TOCO:** También conocido como «semi-pesado» o «4x2», tiene dos ejes y 4 ruedas en contacto con el suelo.
-- **AUTOBÚS TRUCADO:** También conocidos como «truck» o “pesado” o «6x2», tienen 3 ejes y 6 ruedas en contacto con el suelo. El eje adicional proporciona mayor estabilidad y comodidad.
+### **BUSES**
 
-### **AUTOMÓVILES**
+- **DD BUS:** DD is the acronym for double-decker buses, meaning those with two levels of seating.
+- **LD BUS:** LD stands for low driver buses, where the driver’s cabin is on the lower level while passenger seats are on the upper level. The luggage compartments in this type of vehicle are usually very spacious.
+- **TOCO BUS:** Also known as “semi-heavy” or “4x2,” it has two axles and four wheels in contact with the ground.
+- **TRUCKED BUS:** Also known as “truck,” “heavy,” or “6x2,” these have three axles and six wheels in contact with the ground. The additional axle provides more stability and comfort.
 
-- **HATCH:** De tamaño pequeño/medio con un maletero «integrado» en el coche.
-- **SEDÁN:** Normalmente más grande, con el maletero integrado y diseñado en la parte trasera.
-- **SUV:** El término significa *Sport Utility Vehicle* (vehículo utilitario deportivo).
-- **PICAPE:** También conocidos como *trucks*, tienen carrocerías normalmente abiertas.
-- **MINIVAN:** Vehículos con más de 5 plazas.
+### **CARS**
 
-## 4.2 - CATEGORÍAS DE ASIENTOS
+- **HATCH:** Small/medium-sized with a “built-in” trunk.
+- **SEDAN:** Usually larger, with an integrated trunk designed at the rear.
+- **SUV:** Stands for *Sport Utility Vehicle*.
+- **PICKUP:** Also known as *trucks*, they typically have open cargo beds.
+- **MINIVAN:** Vehicles with more than 5 seats.
 
-Teniendo en cuenta que los autobuses son uno de los principales tipos de vehículos, entender las diferencias de asientos es importante para que el Director de Logística del Club y del Equipo Nacional elija el que mejor se adapte a su delegación.
+## 4.2 - SEAT CATEGORIES
 
-### **AUTOBÚS CONVENCIONAL**  
-Es el tipo de autobús más económico y básico que ofrecen las empresas. Es el más adecuado para trayectos cortos, ya que no ofrece servicios extras y suele tener asientos convencionales acolchados y poco reclinables.  
+Considering that buses are one of the main types of vehicles, understanding the seat differences is important so that the Club and National Team Logistics Director can choose the one that best suits the delegation.
 
-Esta categoría tiene unas 42 plazas y puede acomodar a los pasajeros exactamente, pero sin espacios adicionales. Algunos autobuses también disponen de aire acondicionado y baños.
+### **CONVENTIONAL BUS**  
+This is the most economical and basic type of bus offered by companies. It is most suitable for short trips, as it does not offer extra services and usually has standard cushioned seats with limited recline.  
 
-### **AUTOBÚS EJECUTIVO**  
-Este tipo de autobús tiene menos asientos, lo que permite disponer de mucho más espacio para sentarse y para las piernas.  
+This category has around 42 seats and can accommodate passengers exactly, but without extra space. Some buses also have air conditioning and bathrooms.
 
-Además de aire acondicionado, algunas compañías ofrecen servicios extra como agua a bordo.  
+### **EXECUTIVE BUS**  
+This type of bus has fewer seats, allowing for much more sitting and legroom.  
 
-La comodidad es la principal diferencia entre los autobuses ejecutivos y los convencionales. Algunas compañías ofrecen en los autobuses ejecutivos servicios como minibar con agua mineral, televisión y radio, además de aire acondicionado y cuarto de baño.  
+In addition to air conditioning, some companies offer extra services such as onboard water.  
 
-Es ideal para viajes de duración media (unas 5 horas).
+Comfort is the main difference between executive and conventional buses. Some companies offer services in executive buses such as a minibar with mineral water, television, and radio, as well as air conditioning and a bathroom.  
 
-### **AUTOBÚS SEMILEITO**  
-Pensado para viajes más largos, el autobús semileito ofrece a los pasajeros más comodidad y tranquilidad.  
+It is ideal for medium-duration trips (around 5 hours).
 
-En este tipo de autobús, los asientos son más reclinables y, por tanto, más cómodos. Además, algunos disponen de TV, nevera, reposapiés y servicio a bordo.  
+### **SEMI-RECLINER BUS**  
+Designed for longer trips, the semi-recliner bus offers passengers more comfort and tranquility.  
 
-Para viajes prolongados, esta es una excelente opción, ya que permite mayor descanso. Algunas empresas ofrecen mantas y almohadas higienizadas. También se pueden ofrecer café y auriculares para ver televisión o escuchar música.
+In this type of bus, the seats recline more and are therefore more comfortable. Additionally, some have TVs, fridges, footrests, and onboard service.  
 
-### **AUTOBÚS LEITO**  
-Si lo que quieres es comodidad absoluta en un viaje de varias horas, la mejor opción es el autobús leito.  
+For extended trips, this is an excellent option as it allows for greater rest. Some companies offer blankets and sanitized pillows. Coffee and headphones for watching TV or listening to music may also be provided.
 
-El número de pasajeros en este tipo de autobús no suele superar los 28 y los asientos disponen de reposapiés.  
+### **RECLINER BUS**  
+If you’re looking for absolute comfort on a several-hour journey, the recliner bus is the best option.  
 
-Ofrece extras como asientos dobles anatómicos que se convierten en una auténtica cama, además de manta, almohada y nevera.  
+The number of passengers in this type of bus usually does not exceed 28, and the seats come with footrests.  
 
-Si quieres más comodidad y puedes pagar un boleto más caro, elige el autobús leito. Suele contar con un máximo de 28 pasajeros.  
+It offers extras like double anatomical seats that convert into real beds, along with a blanket, pillow, and fridge.  
 
-Sus características distintivas incluyen:  
-- Ambiente climatizado  
+If you want more comfort and can afford a more expensive ticket, choose the recliner bus. It usually accommodates a maximum of 28 passengers.  
+
+Its distinctive features include:  
+- Climate-controlled environment  
 - TV, DVD, radio  
-- Nevera  
-- Asientos reclinables 180º (tipo cama)  
-- Traveseras y mantas  
-- En algunos casos, pequeños refrigerios  
+- Fridge  
+- 180º reclining seats (bed type)  
+- Headrests and blankets  
+- In some cases, small snacks  
 
-Este tipo de autobús es ideal para viajes largos y cansados, ya que permite a los pasajeros dormir profundamente en butacas amplias y confortables.
+This type of bus is ideal for long and tiring trips, as it allows passengers to sleep deeply in wide and comfortable seats.
 
-## 4.3 - VEHÍCULOS DE CARGA
+## 4.3 - CARGO VEHICLES
 
-Las delegaciones suelen viajar con una gran cantidad de equipaje y material para las prácticas deportivas. Para su transporte interno, existen diferentes tipos de vehículos según las dimensiones y peso transportado.
+Delegations often travel with a large amount of luggage and material for sports practices. For internal transport, there are different types of vehicles depending on the size and weight transported.
 
-- **CAMIONETA PEQUEÑA:** Ideal para zonas urbanas. Sus dimensiones máximas son 2,2 m de ancho y 6,3 m de largo, con capacidad para transportar hasta 3 toneladas.
-- **CAMIÓN TOCO (SEMIPESADO):** Al igual que los autobuses, tiene 4 ruedas en contacto con el suelo, divididas en dos ejes. Puede transportar hasta 6 toneladas, con una longitud máxima de 14 m y un peso de hasta 16 toneladas. Se usa para mudanzas y transporte de carga en general.
-- **CAMIÓN TRUCK:** Similar al autobús trucado, tiene 3 ejes y 6 ruedas en contacto con el suelo. Tiene las mismas dimensiones que el camión toco, pero con capacidad para transportar cargas más pesadas (de 10 a 14 toneladas), y su peso bruto puede alcanzar las 23 toneladas.
-- **CAMIÓN BITRUCK:** También conocidos como «8x2» u «8x4», tienen cuatro ejes y 8 ruedas en contacto con el suelo, con mayor capacidad de transporte y pueden alcanzar un peso bruto de 29 toneladas. Son los camiones que transportan grano y cargas muy pesadas.
-- **FURGONETA:** Vehículo con carrocería que puede utilizarse para transportar pasajeros o carga en el mismo compartimento. Tiene 4 ruedas y varias dimensiones. A diferencia de un turismo, puede transportar a más de 6 pasajeros.
+- **SMALL TRUCK:** Ideal for urban areas. Its maximum dimensions are 2.2 m wide and 6.3 m long, with a capacity to transport up to 3 tons.
+- **TOCO TRUCK (SEMI-HEAVY):** Like the buses, it has 4 wheels in contact with the ground, divided into two axles. It can transport up to 6 tons, with a maximum length of 14 m and a weight of up to 16 tons. It is used for moving and general cargo transport.
+- **TRUCK TRUCK:** Similar to the trucked bus, it has 3 axles and 6 wheels in contact with the ground. It has the same dimensions as the toco truck but can transport heavier loads (from 10 to 14 tons), and its gross weight can reach 23 tons.
+- **BITRUCK:** Also known as “8x2” or “8x4,” they have four axles and 8 wheels in contact with the ground, with greater transport capacity and can reach a gross weight of 29 tons. These are the trucks that carry grain and very heavy loads.
+- **VAN:** A vehicle with a body that can be used to transport passengers or cargo in the same compartment. It has 4 wheels and various dimensions. Unlike a passenger car, it can transport more than 6 passengers.
 
-## 4.4 - DOCUMENTOS
+## 4.4 - DOCUMENTS
 
-Al igual que en las operaciones de alojamiento y transporte aéreo, el transporte terrestre también cuenta con una serie de documentos necesarios para el transporte de pasajeros y carga.
+As with lodging and air transport operations, ground transportation also requires a series of documents for the transportation of passengers and cargo.
 
-- **LISTA DE PASAJEROS:** Es importante que el transporte en autobús tenga siempre registrada la lista de pasajeros ante las autoridades responsables. Esto permite controlar el viaje y garantiza un seguro en caso de incidente.
-- **SEGURO DE VIAJE:** Además del seguro obligatorio de las empresas de autobuses, el seguro de viaje opcional es otra garantía de protección y seguridad para los pasajeros.
+- **PASSENGER LIST:** It is important that bus transportation always registers the passenger list with the responsible authorities. This allows travel control and ensures insurance in case of an incident.
+- **TRAVEL INSURANCE:** In addition to the mandatory insurance from bus companies, optional travel insurance is another guarantee of protection and safety for passengers.

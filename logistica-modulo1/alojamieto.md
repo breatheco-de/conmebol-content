@@ -1,163 +1,162 @@
 ---
 description: >-
-  Descubre información esencial sobre tipos de hoteles, categorías y logística para delegaciones de fútbol. ¡Domina tus opciones de alojamiento hoy mismo!
+  Discover essential information about hotel types, categories, and logistics for football delegations. Master your accommodation options today!
 ---
-# TEMA 2 - CONCEPTOS Y ESTRUCTURAS: ALOJAMIENTO
 
-## 2.1 - TIPOS DE ALOJAMIENTO
+# TOPIC 2 - CONCEPTS AND STRUCTURES: ACCOMMODATION
 
-Se considera "tipo de alojamiento" a un establecimiento comercial que recibe turistas de diversos perfiles: ocio, corporativo, residencia temporal, etc.
+## 2.1 - TYPES OF ACCOMMODATION
 
-El Responsable de Logística debe conocer los diferentes tipos de alojamiento para tomar decisiones informadas sobre dónde alojar a la delegación de fútbol, evaluando los niveles de servicio y negociando mejores condiciones.
+"Type of accommodation" refers to a commercial establishment that receives tourists of various profiles: leisure, corporate, temporary residence, etc.
 
-Los cuatro tipos principales utilizados por las delegaciones de fútbol son:
+The Logistics Manager must be familiar with the different types of accommodation to make informed decisions about where to host the football delegation, evaluating service levels and negotiating better conditions.
 
-- **HOTEL:** Establecimiento comercial que ofrece habitaciones de distintas configuraciones y servicios como recepción, room service, desayuno, entre otros. Su nivel varía según la categoría.
-- **POSADA:** Similar a un hotel, pero con disposición horizontal y con posibilidad de estar subdividida en chalés o bungalows.
-- **RESORT:** Además de los servicios de un hotel, cuenta con infraestructura de ocio y entretenimiento, como spa, actividades recreativas y restaurantes temáticos.
-- **HOSTEL:** Alojamiento en habitaciones compartidas con tarifas más económicas.
+The four main types used by football delegations are:
 
-Este curso se centrará en el uso de hoteles, ya que son el principal tipo utilizado por las delegaciones de fútbol.
+- **HOTEL:** A commercial establishment offering rooms with various configurations and services such as reception, room service, breakfast, among others. Its level varies according to category.
+- **INN:** Similar to a hotel, but with a horizontal layout and possibly subdivided into chalets or bungalows.
+- **RESORT:** In addition to hotel services, it includes leisure and entertainment infrastructure such as a spa, recreational activities, and themed restaurants.
+- **HOSTEL:** Accommodation in shared rooms with lower rates.
 
-## 2.2 - CATEGORÍAS DE HOTELES
+This course will focus on the use of hotels, as they are the main type used by football delegations.
 
-Las estrellas en los hoteles indican su nivel de servicio. Cada país tiene su propio sistema de evaluación, en Brasil se usa el **SBClass** (Sistema Brasileño de Alojamientos), que requiere el cumplimiento del 100% de requisitos obligatorios para cada estrella.
+## 2.2 - HOTEL CATEGORIES
 
-Los requisitos obligatorios incluyen aspectos como calidad de las habitaciones, servicios ofrecidos, atención al huésped y condiciones de higiene y seguridad.
+Hotel stars indicate their level of service. Each country has its own evaluation system. In Brazil, **SBClass** (Brazilian Accommodation System) is used, which requires 100% compliance with mandatory requirements for each star.
 
-## 2.3 - HORARIOS Y SERVICIOS
+Mandatory requirements include aspects such as room quality, services offered, guest care, and hygiene and safety conditions.
 
-Los hoteles pueden ofrecer distintos **regímenes alimenticios** según su estructura y tipo de clientes:
+## 2.3 - SCHEDULES AND SERVICES
 
-- **Régimen estándar:** Solo incluye desayuno.
-- **Media pensión (MAPA):** Incluye desayuno y otra comida (almuerzo o cena).
-- **Pensión completa (FAP):** Incluye desayuno, almuerzo y cena (no incluye bebidas).
-- **Todo incluido:** Ofrece todas las comidas y, en algunos casos, bebidas.
+Hotels may offer different **meal plans** depending on their structure and customer type:
 
-Además de la alimentación, los hoteles brindan diversos **servicios adicionales**, como:
+- **Standard plan:** Includes breakfast only.
+- **Half board (MAP):** Includes breakfast and one other meal (lunch or dinner).
+- **Full board (FAP):** Includes breakfast, lunch, and dinner (beverages not included).
+- **All inclusive:** Offers all meals and, in some cases, beverages.
 
-- **Servicio de habitación (room service):** Atención en la habitación para pedidos de comida, lavandería, aseo, etc.
-- **Traslados:** Transporte hacia aeropuertos, sedes de eventos o atracciones turísticas.
-- **Amenidades personalizadas:** Servicios exclusivos para huéspedes VIP, como artículos de lujo.
+In addition to food, hotels offer various **additional services**, such as:
 
-## 2.4 - CONDICIONES ESPECIALES
+- **Room service:** In-room service for food, laundry, cleaning, etc.
+- **Transfers:** Transportation to airports, event venues, or tourist attractions.
+- **Personalized amenities:** Exclusive services for VIP guests, such as luxury items.
 
-Para gestionar la llegada y salida de huéspedes, los hoteles establecen protocolos específicos:
+## 2.4 - SPECIAL CONDITIONS
 
-- **Check-in:** Registro de ingreso del huésped, confirmación de reserva y entrega de información del hotel.
-- **Check-out:** Registro de salida, entrega de llaves y liquidación de pagos adicionales.
-- **Early check-in:** Permite ingresar antes de la hora establecida (puede tener costo).
-- **Late check-out:** Permite salir después de la hora establecida (puede tener costo).
-- **No show:** Ocurre cuando el huésped no se presenta sin previo aviso, lo que puede generar penalización.
-- **Uso diurno:** Permite el uso de las instalaciones sin pernoctar, práctica común en Europa.
+To manage guest arrival and departure, hotels establish specific protocols:
 
-## 2.5 - TIPOS DE APARTAMENTOS/HABITACIONES
+- **Check-in:** Guest registration, reservation confirmation, and hotel information delivery.
+- **Check-out:** Departure registration, key return, and settlement of additional charges.
+- **Early check-in:** Allows entry before the established time (may have a cost).
+- **Late check-out:** Allows departure after the established time (may have a cost).
+- **No show:** Occurs when the guest does not appear without prior notice, which may incur a penalty.
+- **Day use:** Allows use of facilities without an overnight stay, common practice in Europe.
 
-Para las delegaciones de fútbol, el hotel se convierte en una extensión del hogar, por lo que es fundamental conocer los diferentes tipos de habitaciones:
+## 2.5 - TYPES OF APARTMENTS/ROOMS
 
-- **Standard:** Habitación sencilla con lo básico.
-- **Master:** Categoría superior con mejoras en ubicación, mobiliario y confort.
-- **Deluxe o Master Superior:** Habitaciones más grandes con mobiliario exclusivo.
-- **Suite:** Habitaciones de lujo, con subdivisiones para mayor comodidad.
-  - **Suite Presidencial:** La más lujosa, reservada para autoridades.
-  - **Junior Suite:** Más pequeña que la Presidencial, pero con alto estándar de confort.
+For football delegations, the hotel becomes an extension of home, so it's essential to know the different types of rooms:
 
-### Formatos de habitaciones:
+- **Standard:** Basic room with essential features.
+- **Master:** Higher category with better location, furniture, and comfort.
+- **Deluxe or Master Superior:** Larger rooms with exclusive furniture.
+- **Suite:** Luxury rooms with subdivisions for greater comfort.
+  - **Presidential Suite:** The most luxurious, reserved for officials.
+  - **Junior Suite:** Smaller than the Presidential, but with a high comfort standard.
 
-- **Habitación SGL:** Habitación individual con una cama.
-- **Twin Room:** Habitación con dos camas individuales.
-- **DBL Room:** Habitación con una cama doble.
-- **Dormitorio:** Habitaciones con más de dos camas o literas.
-- **Apartamentos:** Espacios con estructura tipo hogar, ideales para largas estadías.
+### Room formats:
 
-### Tipos de camas disponibles:
+- **SGL Room:** Single room with one bed.
+- **Twin Room:** Room with two single beds.
+- **DBL Room:** Room with one double bed.
+- **Dormitory:** Rooms with more than two beds or bunk beds.
+- **Apartments:** Home-like spaces, ideal for long stays.
 
-- **Cama Doble Estándar:** 1.4 m x 2 m
-- **Cama Doble Queen Size:** 1.6 m x 2.1 m
-- **Cama Doble King Size:** 2 m x 2.1 m
+### Available bed types:
 
-## 2.6 - ESTRUCTURAS HOTELERAS
+- **Standard Double Bed:** 1.4 m x 2 m
+- **Queen Size Double Bed:** 1.6 m x 2.1 m
+- **King Size Double Bed:** 2 m x 2.1 m
 
-Los hoteles pueden variar significativamente en su estructura, desde pequeñas instalaciones hasta complejos de gran tamaño. Para el Responsable de Logística de un club o selección nacional, es crucial conocer estas estructuras para optimizar la operación de un viaje.
+## 2.6 - HOTEL STRUCTURES
 
-Las salas utilizadas por delegaciones de fútbol son fundamentales para la logística. Al elegir y acondicionar una sala, se deben considerar:
+Hotels can vary significantly in structure, from small facilities to large-scale complexes. For the Logistics Manager of a club or national team, it's crucial to understand these structures to optimize trip operations.
 
-- Ubicación estratégica
-- Infraestructura y equipamiento disponibles
-- Comodidad y servicios de apoyo
+The rooms used by football delegations are fundamental to logistics. When selecting and equipping a room, consider:
 
-### Tipos de salas y espacios en hoteles:
+- Strategic location
+- Available infrastructure and equipment
+- Comfort and support services
 
-**SALA DE REUNIONES:** Utilizada para reuniones técnicas y tácticas antes de los partidos. Formatos comunes:
-- **FORMATO U:** Facilita la interacción y el intercambio de ideas.
-- **FORMATO AUDITORIO:** Tradicional, con sillas alineadas hacia un punto focal.
+### Types of rooms and spaces in hotels:
 
-**SALA DE COMIDAS:** Espacio para la alimentación de la delegación.
-- **MESAS IMPERIALES:** Mesas rectangulares con capacidad ajustable.
-- **MESAS REDONDAS:** Permiten mayor interacción entre los comensales.
+**MEETING ROOM:** Used for technical and tactical meetings before matches. Common formats:
+- **U-SHAPE FORMAT:** Facilitates interaction and idea exchange.
+- **AUDITORIUM FORMAT:** Traditional, with chairs aligned toward a focal point.
 
-**SALA/ESPACIO DE GUARDARROPA:** Espacio para almacenar ropa y materiales del club, idealmente con área de organización.
+**DINING ROOM:** Space for the delegation's meals.
+- **IMPERIAL TABLES:** Rectangular tables with adjustable capacity.
+- **ROUND TABLES:** Allow greater interaction among diners.
 
-**SALA DE FISIOTERAPIA:** Espacio dedicado a tratamientos médicos y fisioterapia.
+**CLOAKROOM/STORAGE ROOM:** Space for storing clothes and club materials, ideally with an organization area.
 
-**SALA DE ESTAR:** Lugar privado para la delegación, según el nivel de atención mediática de los atletas.
+**PHYSIOTHERAPY ROOM:** Space dedicated to medical treatments and physiotherapy.
 
-**SALA DE JUEGOS:** Espacio de entretenimiento con juegos de mesa o videojuegos.
+**LOUNGE ROOM:** Private area for the delegation, depending on the athletes’ media attention level.
 
-**BUSINESS CENTRE:** Área con servicios de oficina (impresora, papelería, etc.), útil para la logística administrativa.
+**GAMES ROOM:** Entertainment space with board games or video games.
 
-**ACADEMIA:** Gimnasio del hotel con equipamiento compartido.
+**BUSINESS CENTRE:** Area with office services (printer, stationery, etc.), useful for administrative logistics.
 
-**PISCINA/SAUNA/SPA:** Zonas de ocio que pueden emplearse para entrenamiento y recuperación de atletas.
+**GYM:** Hotel gym with shared equipment.
 
-## 2.7 - SECTORES DEL HOTEL
+**POOL/SAUNA/SPA:** Leisure areas that can be used for athlete training and recovery.
 
-Los hoteles cuentan con diversos sectores que influyen en la operación logística de una delegación.
+## 2.7 - HOTEL SECTORS
 
-### **SECTOR ADMINISTRATIVO:**
+Hotels have various sectors that influence a delegation's logistics operation.
 
-- **RESERVAS:** Gestión de reservas y solicitudes específicas del club.
-- **FINANCIERO:** Control de costos y coordinación de pagos.
-- **GESTIÓN GENERAL:** Supervisión de todos los departamentos.
+### **ADMINISTRATIVE SECTOR:**
 
-Dependiendo del hotel, pueden existir responsables específicos para alojamiento, alimentación, recepción, etc.
+- **RESERVATIONS:** Management of bookings and specific club requests.
+- **FINANCIAL:** Cost control and payment coordination.
+- **GENERAL MANAGEMENT:** Oversight of all departments.
 
-### **DEPARTAMENTO DE ALIMENTACIÓN Y BEBIDAS (A&B):**
+Depending on the hotel, there may be specific managers for accommodation, meals, reception, etc.
 
-- **MAÎTRE:** Control de reservas y coordinación de camareros.
-- **CAMARERO:** Atención y servicio en mesas.
+### **FOOD AND BEVERAGE (F&B) DEPARTMENT:**
 
-### **DEPARTAMENTOS DE HOSPEDAJE:**
+- **MAÎTRE:** Reservation control and waiter coordination.
+- **WAITER:** Table service and guest attention.
 
-- **RECEPCIÓN:** Manejo del check-in, check-out y consumo de la delegación.
-- **CONSERJE:** Apoyo con información turística y asistencia general.
-- **GOBERNANZA:** Gestión de limpieza y lavandería.
-- **CAMARERA:** Encargada de la limpieza de habitaciones.
-- **MENSAJERO:** Transporte de equipaje de los huéspedes.
+### **ACCOMMODATION DEPARTMENTS:**
 
-## 2.8 - TARIFAS
+- **RECEPTION:** Handles check-in, check-out, and delegation consumption.
+- **CONCIERGE:** Support with tourist information and general assistance.
+- **HOUSEKEEPING:** Cleaning and laundry management.
+- **HOUSEKEEPER:** Responsible for room cleaning.
+- **BELLBOY:** Transports guest luggage.
 
-Las tarifas varían según la ocupación, temporada, momento de reserva y duración de la estancia.
+## 2.8 - RATES
 
-### Tipos principales de tarifas:
+Rates vary depending on occupancy, season, booking time, and length of stay.
 
-- **TARIFA MOSTRADOR:** Informada en la recepción, sin descuentos.
-- **TARIFA NET:** Sin comisiones, utilizada por operadoras de turismo.
-- **TARIFA DINÁMICA:** Fluctúa según la demanda y ocupación.
-- **TARIFA DE RESERVA ANTICIPADA:** Descuentos por reservas previas.
-- **TARIFA LONG STAY:** Para estancias prolongadas, con descuentos.
-- **TARIFA MENSUALISTA:** Para alojamiento mensual.
-- **TARIFA PARA GRUPOS:** Aplicada a delegaciones con descuento.
-- **TARIFA CORPORATIVA:** Acordada entre empresas y el hotel.
-- **TARIFA DAY USE:** Para uso diario sin pernoctación.
+### Main types of rates:
 
-Cuando la demanda supera la disponibilidad de habitaciones, puede ocurrir **Overbooking**, donde los hoteles ofrecen compensaciones a los afectados.
+- **WALK-IN RATE:** Informed at reception, without discounts.
+- **NET RATE:** No commissions, used by tour operators.
+- **DYNAMIC RATE:** Fluctuates based on demand and occupancy.
+- **EARLY BOOKING RATE:** Discounts for advance reservations.
+- **LONG STAY RATE:** For extended stays, with discounts.
+- **MONTHLY RATE:** For monthly accommodation.
+- **GROUP RATE:** Applied to delegations with a discount.
+- **CORPORATE RATE:** Agreed between companies and the hotel.
+- **DAY USE RATE:** For daily use without an overnight stay.
 
+When demand exceeds room availability, **Overbooking** may occur, where hotels offer compensation to affected guests.
 
-## 2.9 - DOCUMENTOS
+## 2.9 - DOCUMENTS
 
-Los hoteles manejan dos documentos principales:
+Hotels handle two main documents:
 
-- **FICHA DE REGISTRO DE HUÉSPEDES:** Documento obligatorio con datos personales de los huéspedes, importante en caso de incluir menores de edad.
-- **ROOM LIST:** Lista de habitaciones en reservas grupales, gestionada por el jefe de la delegación. Su anticipación facilita la organización y evita problemas de distribución de habitaciones.
-
+- **GUEST REGISTRATION FORM:** Mandatory document with guest personal data, especially important when minors are included.
+- **ROOM LIST:** Room list for group bookings, managed by the delegation leader. Its early submission facilitates organization and avoids room assignment issues.

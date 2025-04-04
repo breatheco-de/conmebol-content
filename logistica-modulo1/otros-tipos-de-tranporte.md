@@ -1,50 +1,51 @@
 ---
-description: >-
-  Descubre los distintos tipos de transporte, como el acuático y el ferroviario, y sus beneficios. Descubre cómo impactan en la logística y el medio ambiente. ¡Haz clic para explorar!
+description: >-  
+  Discover the different types of transportation, such as water and rail, and their benefits. Learn how they impact logistics and the environment. Click to explore!  
 ---
-# TEMA 5 – CONCEPTOS Y ESTRUCTURAS: OTROS TIPOS DE TRANSPORTE  
 
-## 5.1 – TRANSPORTE ACUÁTICO  
+# TOPIC 5 – CONCEPTS AND STRUCTURES: OTHER TYPES OF TRANSPORTATION  
 
-Aunque es menos común en las operaciones deportivas en general, en algunas situaciones podemos encontrarnos con la necesidad de lidiar con otros tipos de transporte, como el acuático.  
+## 5.1 – WATER TRANSPORTATION  
 
-### **TRANSPORTE MARÍTIMO**  
-Es una modalidad de transporte acuático que se lleva a cabo en mares y océanos a través de embarcaciones (barcos, barcos de carga, cruceros, etc.), utilizado tanto para pasajeros como para mercancías.  
+Although it is less common in sports operations in general, in some situations we may encounter the need to deal with other types of transportation, such as water transport.  
 
-### **TRANSPORTE FLUVIAL**  
-El transporte fluvial, considerado uno de los más antiguos de la humanidad, es una de las modalidades de transporte acuático o acuaviario que se realiza a través de hidrovías.  
+### **MARITIME TRANSPORTATION**  
+This is a type of water transportation that takes place in seas and oceans through vessels (ships, cargo ships, cruise ships, etc.), used for both passengers and goods.  
 
-Antes de la invención de las embarcaciones (barcos, balsas, navíos, etc.), los seres humanos ya utilizaban los ríos como medio de transporte, realizando travesías en troncos de árboles.  
+### **RIVER TRANSPORTATION**  
+River transportation, considered one of the oldest known to humanity, is a type of water or waterway transport carried out through inland waterways.  
 
-En latín, el término “fluvial” proviene de *fluvius* (río), asociado al verbo *fluere*, que significa fluir.  
+Before the invention of vessels (boats, rafts, ships, etc.), humans already used rivers as a means of transportation, making journeys on tree trunks.  
 
-Aunque el transporte acuático es más lento, se utiliza ampliamente para el traslado de mercancías y personas, con un costo operativo más bajo en comparación con otros medios de transporte.  
+In Latin, the term “fluvial” comes from *fluvius* (river), associated with the verb *fluere*, which means to flow.  
 
-Una de sus principales ventajas es su gran capacidad, ya que permite transportar grandes volúmenes de carga.  
+Although water transportation is slower, it is widely used for moving goods and people, with lower operating costs compared to other means of transport.  
 
-Además, es un medio de transporte con menor impacto ambiental en comparación con otros tipos, como el transporte por carretera o ferrocarril. Sin embargo, tiene la limitación de depender de la existencia de hidrovías para su navegación.  
+One of its main advantages is its large capacity, as it allows for the transport of large volumes of cargo.  
 
-> "El transporte fluvial es el transporte realizado a través de ríos y canales artificiales ubicados en el interior de los continentes. Forma parte del sistema de transporte acuaviario.  
-> Los medios de transporte fluvial incluyen embarcaciones como barcos, lanchas y canoas.  
-> Se usa con frecuencia para el transporte de pasajeros y mercancías en regiones específicas y es fundamental para la conexión entre diferentes modalidades de transporte.  
-> Es capaz de transportar cargas pesadas y de bajo valor agregado.  
-> Tiene menor impacto ambiental y sus costos de transporte son más bajos.  
-> No obstante, sus desplazamientos son más lentos, por lo que se recomienda principalmente para distancias cortas y medias.  
-> En Brasil, especialmente en la región norte, las vías fluviales son utilizadas para el transporte de pasajeros entre ciudades y para el traslado de mercancías."  
+Additionally, it is a mode of transport with a lower environmental impact compared to other types, such as road or rail transport. However, it is limited by the need for navigable waterways.  
 
-> "El transporte fluvial es un tipo de transporte que se realiza a través de ríos y canales, ya sean naturales o artificiales. Por lo tanto, tiene lugar en el interior de los continentes.  
-> Se considera parte del sistema hidroviario o acuaviario, caracterizado por el desplazamiento de personas, animales y mercancías a través de hidrovías."  
+> "River transport is transportation carried out through rivers and artificial canals located within the interior of continents. It is part of the waterway transport system.  
+> River transport means include vessels such as boats, launches, and canoes.  
+> It is frequently used for the transportation of passengers and goods in specific regions and is fundamental for the connection between different transportation modes.  
+> It can carry heavy and low-value-added cargo.  
+> It has a lower environmental impact and its transportation costs are lower.  
+> However, it is slower, so it is mainly recommended for short and medium distances.  
+> In Brazil, especially in the northern region, waterways are used for transporting passengers between cities and for moving goods."  
 
-### **TRANSPORTE LACUSTRE**  
-Es el transporte que se lleva a cabo en lagos, lagunas y cuerpos de agua interiores.  
+> "River transport is a type of transport carried out through rivers and canals, whether natural or artificial. Therefore, it takes place within the interior of continents.  
+> It is considered part of the waterway or aquatic transport system, characterized by the movement of people, animals, and goods through waterways."  
 
-## 5.2 – TRANSPORTE FERROVIARIO  
+### **LAKE TRANSPORTATION**  
+This is transportation carried out on lakes, lagoons, and inland bodies of water.  
 
-> "El transporte ferroviario es un tipo de desplazamiento que ocurre a través de vías férreas y se utiliza para transportar, entre otras cosas, personas y mercancías.  
-> Es uno de los medios de transporte más antiguos, cuyo origen está directamente relacionado con la Primera Revolución Industrial, un acontecimiento histórico que tuvo lugar en Europa a finales del siglo XVIII y principios del siglo XIX."  
+## 5.2 – RAIL TRANSPORTATION  
 
-El transporte ferroviario se realiza mediante vehículos que circulan sobre rieles, como los trenes.  
+> "Rail transportation is a type of movement that occurs through railway tracks and is used to transport, among other things, people and goods.  
+> It is one of the oldest means of transportation, whose origin is directly related to the First Industrial Revolution, a historical event that took place in Europe at the end of the 18th and beginning of the 19th century."  
 
-Es ideal para el traslado de cargas pesadas (minerales, productos agrícolas, siderúrgicos, alimentos) y para el transporte de pasajeros a distancias medias y largas.  
+Rail transportation is carried out by vehicles that run on rails, such as trains.  
 
-En Brasil, este medio de transporte tiene un uso limitado en comparación con otros países.
+It is ideal for transporting heavy loads (minerals, agricultural products, steel, food) and for transporting passengers over medium and long distances.  
+
+In Brazil, this means of transport has limited use compared to other countries.

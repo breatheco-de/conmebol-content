@@ -1,21 +1,22 @@
 ---
 description: >-
-  ¡Descubre los fundamentos de la logística de la CONMEBOL en el Módulo 1! Aprende sobre la organización del evento, la distribución de recursos y los procedimientos clave. ¡Haz clic para explorar!
+  Discover the fundamentals of CONMEBOL logistics in Module 1! Learn about event organization, resource distribution, and key procedures. Click to explore!
 ---
-# 📘 Logística CONMEBOL | MÓDULO 1
 
-## 🌍 ¿De qué trata este primer módulo?  
+# 📘 CONMEBOL Logistics | MODULE 1
 
-Durante este múdulo aprenderás cómo se organizan los eventos, cómo se distribuyen los recursos y qué procedimientos se siguen para que todo funcione sin problemas. Si alguna vez te preguntaste cómo se coordina el detrás de escena de los torneos y actividades de CONMEBOL, aquí encontrarás la respuesta!
+## 🌍 What is this first module about?
 
-## 📑 Contenidos  
+During this module, you will learn how events are organized, how resources are distributed, and what procedures are followed to make everything run smoothly. If you’ve ever wondered how the behind-the-scenes of CONMEBOL’s tournaments and activities are coordinated, you’ll find the answer here!
 
-1. Introducción.
-2. Alojamiento.
-3. Transporte Aéreo.  
-4. Transporte Terrestre.
-5. Otros transportes.
+## 📑 Contents
 
-## ✅ ¿Por qué es útil?  
+1. Introduction  
+2. Accommodation  
+3. Air Transport  
+4. Ground Transport  
+5. Other Transport Modes
 
-Este documento te ayudará a comprender mejor cómo funciona la logística en CONMEBOL y a seguir sus procedimientos correctamente. Es una guía clave para quienes participan en la organización de eventos y torneos.  
+## ✅ Why is it useful?
+
+This document will help you better understand how logistics works at CONMEBOL and how to correctly follow its procedures. It is a key guide for those involved in organizing events and tournaments.
