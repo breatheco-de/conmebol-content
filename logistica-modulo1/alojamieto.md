@@ -1,7 +1,6 @@
 ---
 description: >-
-  Discover essential insights on hotel types, categories, and logistics for
-  football delegations. Master your accommodation choices today!
+  Descubre información esencial sobre tipos de hoteles, categorías y logística para delegaciones de fútbol. ¡Domina tus opciones de alojamiento hoy mismo!
 ---
 # TEMA 2 - CONCEPTOS Y ESTRUCTURAS: ALOJAMIENTO
 
