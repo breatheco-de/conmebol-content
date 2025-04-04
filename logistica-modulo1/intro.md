@@ -3,8 +3,8 @@ description: >-
   ¡Aprende los fundamentos de la logística en el fútbol con nuestro curso! Domina los conceptos y estructuras clave para una gestión eficaz en clubes y selecciones. ¡Descubre más!
 
 tags: >-
-  - conmebol
-  - logistica
+  conmebol
+  logistica
 ---
 # LOGÍSTICA - CONMEBOL - MOD 1 (OFICIAL) (1)
 
