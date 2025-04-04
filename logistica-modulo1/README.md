@@ -1,7 +1,6 @@
 ---
 description: >-
-  Discover the essentials of CONMEBOL logistics in Module 1! Learn about event
-  organization, resource distribution, and key procedures. Click to explore!
+  ¡Descubre los fundamentos de la logística de la CONMEBOL en el Módulo 1! Aprende sobre la organización del evento, la distribución de recursos y los procedimientos clave. ¡Haz clic para explorar!
 ---
 # 📘 Logística CONMEBOL | MÓDULO 1
 
