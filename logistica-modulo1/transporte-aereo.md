@@ -1,8 +1,6 @@
 ---
 description: >-
-  Discover essential concepts of air transport logistics, including flight
-  types, seating categories, and airport procedures. Master your travel planning
-  today!
+  Descubre los conceptos esenciales de la logística del transporte aéreo, incluyendo los tipos de vuelo, las categorías de asientos y los procedimientos aeroportuarios. ¡Domina la planificación de tus viajes hoy mismo!
 ---
 # TEMA 3 - CONCEPTOS Y ESTRUCTURAS: TRANSPORTE AÉREO
 
