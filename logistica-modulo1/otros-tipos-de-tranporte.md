@@ -1,3 +1,9 @@
+---
+description: >-
+  Discover various transport types, including aquatic, railway, and their
+  benefits. Learn how they impact logistics and the environment. Click to
+  explore!
+---
 # TEMA 5 – CONCEPTOS Y ESTRUCTURAS: OTROS TIPOS DE TRANSPORTE  
 
 ## 5.1 – TRANSPORTE ACUÁTICO  

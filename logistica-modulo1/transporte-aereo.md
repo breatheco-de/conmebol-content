@@ -1,3 +1,9 @@
+---
+description: >-
+  Discover essential concepts of air transport logistics, including flight
+  types, seating categories, and airport procedures. Master your travel planning
+  today!
+---
 # TEMA 3 - CONCEPTOS Y ESTRUCTURAS: TRANSPORTE AÉREO
 
 ## 3.1 - TIPOS DE VUELO

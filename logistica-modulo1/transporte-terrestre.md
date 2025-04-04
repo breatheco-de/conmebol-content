@@ -1,3 +1,9 @@
+---
+description: >-
+  Discover essential concepts and structures of terrestrial transport, including
+  passenger vehicles, seating categories, and logistics documentation. Learn
+  more!
+---
 # TEMA 4 - CONCEPTOS Y ESTRUCTURAS: TRANSPORTE TERRESTRE
 
 ## 4.1 - VEHÍCULOS DE PASAJEROS

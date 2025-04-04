@@ -1,3 +1,9 @@
+---
+description: >-
+  Learn the fundamentals of logistics in football with our course! Master key
+  concepts and structures for effective management in clubs and selections.
+  Discover more!
+---
 # LOGÍSTICA - CONMEBOL - MOD 1 (OFICIAL) (1)
 
 **CONMEBOL EVOLUCIÓN**
